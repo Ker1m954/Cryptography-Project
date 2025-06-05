@@ -13,27 +13,26 @@
 
 ---
 
-## Features / *Özellikler*
+## Features
 
-- **Feature 1:** Simple, but very useful 
- 
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
+- **Feature 1:** Simple, but very useful.
+
+- **Feature 2:** Our code is specially modificated for user-friendly-command-line interface.
+- Allowing non-programmers to interact with the code at easily.
+- 
+- **Feature 3:** 
+
 
 ---
 
-## Team / *Ekip*
+## Our Team
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
+- **232****033** -*Role or Contribution*  
+  *Mehmet Kerim SAİN: Rolü veya Katkısı*
+- **222***040** -*Role or Contribution*  
+  *Gürkan Plevnelioğlu: Rolü veya Katkısı*
+- **232****042** - Name Surname: *Role or Contribution*  
+  *Muhammed Yunus Elçi Rolü veya Katkısı*
 
 ---
 
