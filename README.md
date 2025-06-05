@@ -17,26 +17,25 @@
 
 - **Feature 1:** Simple, but very useful.
 
-- **Feature 2:** Our code is specially modificated for user-friendly-command-line interface.
-- Allowing non-programmers to interact with the code at easily.
-- 
-- **Feature 3:** 
+- **Feature 2:** Our code is specially modificated for user-friendly-command-line interface. Allowing non-programmers to interact with the code at easily.
 
 
 ---
 
 ## Our Team
 
-- **232****033** -*Role or Contribution*  
-  *Mehmet Kerim SAİN: Rolü veya Katkısı*
-- **222***040** -*Role or Contribution*  
-  *Gürkan Plevnelioğlu: Rolü veya Katkısı*
-- **232****042** - Name Surname: *Role or Contribution*  
-  *Muhammed Yunus Elçi Rolü veya Katkısı*
+- **232****033**-
+  *Mehmet Kerim SAİN: Main Contributer - Lead*
+  
+- **222***040**-
+  *Gürkan Plevnelioğlu: Main Contributer*
+  
+- **232****042**- 
+  *Muhammed Yunus Elçi: Main Contributer*
 
 ---
 
-## Roadmap / *Yol Haritası*
+## Our Roadmap
 
 See our plans in [ROADMAP.md](ROADMAP.md).  
 *Yolculuğu görmek için [ROADMAP.md](ROADMAP.md) dosyasına göz atın.*
@@ -45,7 +44,7 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 ## Research / *Araştırmalar*
 
-| Topic / *Başlık*        | Link                                    | Description / *Açıklama*                        |
+| Topic      | Link                                    | Description                        |
 |-------------------------|-----------------------------------------|------------------------------------------------|
 | Aircrack Deep Dive      | [researchs/aircrack.md](researchs/aircrack.md) | In-depth analysis of Aircrack-ng suite. / *Aircrack-ng paketinin derinlemesine analizi.* |
 | Example Research Topic  | [researchs/your-research-file.md](researchs/your-research-file.md) | Brief overview of this research. / *Bu araştırmanın kısa bir özeti.* |
@@ -53,12 +52,12 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 ---
 
-## Installation / *Kurulum*
+## Installation 
 
-1. **Clone the Repository / *Depoyu Klonlayın***:  
+1. **Clone Our Repository  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/Ker1m954/Cryptography.git
+   cd Ker1m954/Cryptography
    ```
 
 2. **Set Up Virtual Environment / *Sanal Ortam Kurulumu*** (Recommended):  
@@ -74,7 +73,7 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 ---
 
-## Usage / *Kullanım*
+## Usage
 
 Run the project:  
 *Projeyi çalıştırın:*
