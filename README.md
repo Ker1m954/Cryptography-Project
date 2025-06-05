@@ -120,8 +120,6 @@ Licensed under the [MIT License](LICENSE.md).
 
 Special thanks to:  
 - Awesome Template: Thanksfor giving us this amazing template; Keyvan Arasteh (https://github.com/keyvanarasteh)
-- Inspiration Source.  
-- Special thanks to...  
 
 ---
 
