@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
+# PROJECT NAME
 encryption and decryption tool for Python
 
 A simple but well written code for Pyhton that you can use for both encryiption and decryption
