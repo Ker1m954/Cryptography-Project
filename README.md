@@ -95,10 +95,10 @@ python main.py --input your_file.pcap --output results.txt
 
 ---
 
-## Contributing / *Katkıda Bulunma*
+## Contribution
 
-We welcome contributions! To help:  
-1. Fork the repository.  
+We welcome anyone who is willing to help!:  
+1. Please first fork the repository.  
 2. Clone your fork (`git clone git@github.com:YOUR_USERNAME/YOUR_REPO.git`).  
 3. Create a branch (`git checkout -b feature/your-feature`).  
 4. Commit changes with clear messages.  
@@ -107,7 +107,6 @@ We welcome contributions! To help:
 
 Follow our coding standards (see [CONTRIBUTING.md](CONTRIBUTING.md)).  
 
-*Topluluk katkilerini memnuniyetle karşılıyoruz! Katkıda bulunmak için yukarıdaki adımları izleyin ve kodlama standartlarımıza uyun.*
 
 ---
 
@@ -118,23 +117,19 @@ Licensed under the [MIT License](LICENSE.md).
 
 ---
 
-## Acknowledgements / *Teşekkürler* (Optional)
+## Our Acknowledgements
 
-Thanks to:  
-- Awesome Library: For enabling X.  
+Special thanks to:  
+- Awesome Template: Thanksfor giving us this amazing template; Keyvan Arasteh (https://github.com/keyvanarasteh)
 - Inspiration Source.  
 - Special thanks to...  
 
-*Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
-
 ---
 
-## Contact / *İletişim* (Optional)
+## You Can Contact Us Via;
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
-Found a bug? Open an issue.  
-
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+Project Maintainer: [Mehmet Kerim SAİN] - [mehmetkerimsain@gmail.com]  
+Found any bug or missing lines? Please open an issue.  
 
 ---
 
