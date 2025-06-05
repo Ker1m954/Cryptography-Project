@@ -27,7 +27,7 @@
 - **232****033**-
   *Mehmet Kerim SAİN: Main Contributer - Lead*
   
-- **222***040**-
+- **222******040*-
   *Gürkan Plevnelioğlu: Main Contributer*
   
 - **232****042**- 
