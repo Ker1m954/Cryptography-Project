@@ -1,1 +1,11 @@
-requests
+VSCode to use the program (https://code.visualstudio.com/)
+Python for VSCode (https://www.python.org/)
+import libarary for the program: pip install pycryptodome (If you get an error like this, pip : The term 'pip' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a      
+path was included, verify that the path is correct and try again.
+At line:1 char:1
++ pip install discord
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (pip:String) [], CommandNotFoun  
+   dException
+    + FullyQualifiedErrorId : CommandNotFoundException) Please head to this video and do the exact steps shown there (https://www.youtube.com/watch?v=h_VFadp_lyI)
