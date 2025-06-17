@@ -76,7 +76,7 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 ## Usage
 
 Run the project:  
-*Projeyi çalıştırın:*
+
 
 ```bash
 python main.py --input your_file.pcap --output results.txt
@@ -119,7 +119,7 @@ Licensed under the [MIT License](LICENSE.md).
 ## Our Acknowledgements
 
 Special thanks to:  
-- Awesome Template: Thanksfor giving us this amazing template; Keyvan Arasteh (https://github.com/keyvanarasteh)
+- Awesome Template!: Thanks to our amazing teacher Keyvan for giving us this amazing template! Keyvan Arasteh (https://github.com/keyvanarasteh)
 
 ---
 
