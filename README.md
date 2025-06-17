@@ -48,7 +48,7 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 |-------------------------|-----------------------------------------|------------------------------------------------|
 | Python based Decryption and Encryption codes      | [researchs/deepsearch.01.md](researchs/deepsearch.01.md) | In-depth analysis of python based decryption and encryption codes 
 | Digital Signatures in Python.  | [researchs/deepsearch02.md](researchs/deepsearch02.md) | Brief overview of Digital Signatures in Python..  |
-| Add More Research       | [researchs/deepsearch03.md](researchs/deepsearch03.md)    | *Description of the research*                  |
+| Cryptographic Applications in Python.       | [researchs/deepsearch03.md](researchs/deepsearch03.md)    | A deatiled search about Cryptographic Applications in Python.                  |
 
 ---
 
