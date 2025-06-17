@@ -75,11 +75,11 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 ## Usage
 
-1. Caesar Cipher
+1. **Caesar Cipher**
 What It Is
 The Caesar Cipher is a basic substitution cipher where each letter in your message (plaintext) is shifted by a fixed number of positions in the alphabet. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. It’s a simple way to obscure text.
 
-How It Works
+**How It Works**
 Encryption: Shifts each letter forward by the specified number (the "shift" or key).
 Decryption: Shifts each letter backward by the same number.
 Non-alphabetic characters (like spaces or punctuation) stay unchanged.
@@ -87,7 +87,7 @@ It only affects letters (A-Z), preserving case (uppercase/lowercase).
 Why It’s Important
 It’s one of the earliest encryption methods, dating back to Julius Caesar. While not secure today, it introduces the core idea of transforming plaintext into ciphertext using a key.
 
-How to Use It in the Code
+**How to Use It in the Code**
 Start the Program:
 Run the script (e.g., python crypto_toolkit.py).
 Select Caesar Cipher:
@@ -112,11 +112,13 @@ Output: "KHOOR ZRUOG"
 Decrypt:
 Input: Message = "KHOOR ZRUOG", Shift = 3
 Output: "HELLO WORLD"
-2. Vigenère Cipher
+
+
+2. **Vigenère Cipher**
 What It Is
 The Vigenère Cipher is a more advanced substitution cipher that uses a keyword to shift each letter in the message. Unlike the Caesar Cipher’s single shift, it applies different shifts based on the keyword, making it harder to crack.
 
-How It Works
+**How It Works**
 The keyword is repeated to match the message’s length (e.g., "KEY" for "HELLO WORLD" becomes "KEYKEYKEYK").
 Each letter in the message is shifted by the value of the corresponding keyword letter ('A' = 0, 'B' = 1, ..., 'Z' = 25).
 Encryption: Add the shift to each letter.
@@ -148,11 +150,13 @@ Output: "RIJVS UYVJN"
 Decrypt:
 Input: Message = "RIJVS UYVJN", Keyword = "KEY"
 Output: "HELLO WORLD"
-3. AES Encryption
+
+
+**3. AES Encryption**
 What It Is
 AES (Advanced Encryption Standard) is a modern symmetric encryption algorithm that uses the same key for both encryption and decryption. It’s fast, secure, and widely used in applications like VPNs and disk encryption.
 
-How It Works
+**How It Works**
 Encryption:
 The program generates a random 16-byte key and an initialization vector (IV).
 It pads the message to a multiple of 16 bytes, then encrypts it using AES in CBC (Cipher Block Chaining) mode.
@@ -193,7 +197,9 @@ IV: (e.g., "9c3d...")
 Decrypt:
 Input: Ciphertext, Key, IV (from above)
 Output: "Secret Message"
-4. SHA-256 Hashing
+
+
+**5. SHA-256 Hashing**
 What It Is
 SHA-256 is a cryptographic hash function that takes any input and produces a fixed 256-bit (64-character) hash. It’s one-way—you can’t reverse it to find the original data.
 
@@ -215,11 +221,13 @@ You’re automatically returned to the main menu.
 Example
 Input: "Hello World"
 Output: "a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e"
-5. RSA Digital Signatures
+
+
+**5. RSA Digital Signatures**
 What It Is
 RSA (Rivest-Shamir-Adleman) is an asymmetric algorithm using a private key to sign messages and a public key to verify them. Digital signatures prove a message’s authenticity and integrity.
 
-How It Works
+**How It Works**
 Key Generation: Creates a private-public key pair.
 Signing: Hashes the message with SHA-256, then signs it with the private key.
 Verification: Uses the public key to check the signature against the message.
