@@ -46,7 +46,7 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 | Topic      | Link                                    | Description                        |
 |-------------------------|-----------------------------------------|------------------------------------------------|
-| Aircrack Deep Dive      | [researchs/deepsearch.01.md](researchs/deepsearch.01.md) | In-depth analysis of Aircrack-ng suite. / *Aircrack-ng paketinin derinlemesine analizi.* |
+| python based decryption and encryption codes      | [researchs/deepsearch.01.md](researchs/deepsearch.01.md) | In-depth analysis of 
 | Example Research Topic  | [researchs/your-research-file.md](researchs/your-research-file.md) | Brief overview of this research. / *Bu araştırmanın kısa bir özeti.* |
 | Add More Research       | *Link to your other research files*     | *Description of the research*                  |
 
