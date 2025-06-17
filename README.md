@@ -280,9 +280,9 @@ Follow our coding standards (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
 ---
 
-## License*
+## License
 
-Licensed under the [MIT License](LICENSE.md).  
+Licensed under the [GNU License](LICENSE.md).  
 
 ---
 
