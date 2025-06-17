@@ -35,14 +35,14 @@
 
 ---
 
-## Our Roadmap
+## Check Our Roadmap
 
 See our plans in [ROADMAP.md](ROADMAP.md).  
-*Yolculuğu görmek için [ROADMAP.md](ROADMAP.md) dosyasına göz atın.*
+
 
 ---
 
-## Research / *Araştırmalar*
+## Researches*
 
 | Topic      | Link                                    | Description                        |
 |-------------------------|-----------------------------------------|------------------------------------------------|
@@ -60,13 +60,13 @@ See our plans in [ROADMAP.md](ROADMAP.md).
    cd Ker1m954/Cryptography
    ```
 
-2. **Set Up Virtual Environment / *Sanal Ortam Kurulumu*** (Recommended):  
+2. **Set Up Virtual Environment(Recommended):  
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Install Dependencies / *Bağımlılıkları Yükleyin***:  
+3. **Install Dependencies:  
    ```bash
    pip install -r requirements.txt
    ```
@@ -280,10 +280,9 @@ Follow our coding standards (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
 ---
 
-## License / *Lisans*
+## License*
 
 Licensed under the [MIT License](LICENSE.md).  
-*MIT Lisansı altında lisanslanmıştır.*
 
 ---
 
@@ -300,5 +299,3 @@ Project Maintainer: [Mehmet Kerim SAİN] - [mehmetkerimsain@gmail.com]
 Found any bug or missing lines? Please open an issue.  
 
 ---
-
-*Replace placeholders (e.g., YOUR_USERNAME/YOUR_REPO) with your project details.*
