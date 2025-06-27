@@ -42,7 +42,7 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 ---
 
-## Researches*
+## Researches
 
 | Topic      | Link                                    | Description                        |
 |-------------------------|-----------------------------------------|------------------------------------------------|
@@ -54,19 +54,19 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 ## Installation 
 
-1. **Clone Our Repository  
+1. **Clone Our Repository**
    ```bash
    git clone https://github.com/Ker1m954/Cryptography.git
    cd Ker1m954/Cryptography
    ```
 
-2. **Set Up Virtual Environment(Recommended):  
+2. **Set Up Virtual Environment(Recommended):**  
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Install Dependencies:  
+3. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
